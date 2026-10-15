@@ -210,4 +210,5 @@ This header is the contract between the game and any input device.
 - Console graphics only (ASCII characters).
 - Keyboard input is read globally, so keys pressed in other windows also affect the game.
 - No FPGA communication exists yet. Hardware mode needs the planned serial backend and a board with a supported USB-UART interface.
-- Only Snake is implemented so far.
+- Only Snake is implemented so far.#   f p g a _ c o n s o l e  
+ 
